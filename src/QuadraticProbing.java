@@ -3,6 +3,7 @@ public class QuadraticProbing {
     static void hashing(int table[], int arr[])
     {
 //
+        //
         int tsize = table.length;
                  int n = arr.length;
 
