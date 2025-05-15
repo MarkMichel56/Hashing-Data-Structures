@@ -4,6 +4,7 @@ public class QuadraticProbing {
     {
 //
         //
+        // Quadratic Probing
         int tsize = table.length;
                  int n = arr.length;
 
